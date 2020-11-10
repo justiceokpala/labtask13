@@ -1,0 +1,11 @@
+C:\CodebitsAcademy\c#\labtask13\PropertyTest\bin\Debug\netcoreapp3.1\PropertyTest.exe
+C:\CodebitsAcademy\c#\labtask13\PropertyTest\bin\Debug\netcoreapp3.1\PropertyTest.deps.json
+C:\CodebitsAcademy\c#\labtask13\PropertyTest\bin\Debug\netcoreapp3.1\PropertyTest.runtimeconfig.json
+C:\CodebitsAcademy\c#\labtask13\PropertyTest\bin\Debug\netcoreapp3.1\PropertyTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\c#\labtask13\PropertyTest\bin\Debug\netcoreapp3.1\PropertyTest.dll
+C:\CodebitsAcademy\c#\labtask13\PropertyTest\bin\Debug\netcoreapp3.1\PropertyTest.pdb
+C:\CodebitsAcademy\c#\labtask13\PropertyTest\obj\Debug\netcoreapp3.1\PropertyTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\c#\labtask13\PropertyTest\obj\Debug\netcoreapp3.1\PropertyTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\c#\labtask13\PropertyTest\obj\Debug\netcoreapp3.1\PropertyTest.AssemblyInfo.cs
+C:\CodebitsAcademy\c#\labtask13\PropertyTest\obj\Debug\netcoreapp3.1\PropertyTest.dll
+C:\CodebitsAcademy\c#\labtask13\PropertyTest\obj\Debug\netcoreapp3.1\PropertyTest.pdb
